@@ -1,3 +1,11 @@
 table {
-    width: 100%;
+    width: 80%;
   }
+
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    flex-direction: column;
+}
